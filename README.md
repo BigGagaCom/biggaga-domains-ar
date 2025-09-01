@@ -46,3 +46,13 @@
 - [हिन्दी (HI)](https://github.com/BigGagaCom/biggaga-domains-hi)
 - [中文 (ZH)](https://github.com/BigGagaCom/biggaga-domains-zh)
 
+
+## 🌍 Page Links
+
+**المستودع:** https://github.com/BigGagaCom/biggaga-domains-ar  
+**الموقع:** https://biggagacom.github.io/biggaga-domains-ar/  
+
+- [ملف CSV](https://biggagacom.github.io/biggaga-domains-ar/domains_ar.csv)  
+- [ملف JSON](https://biggagacom.github.io/biggaga-domains-ar/domains_ar.json)  
+- [خلاصة RSS](https://biggagacom.github.io/biggaga-domains-ar/biggaga-domains-full-ar.rss.xml)  
+
